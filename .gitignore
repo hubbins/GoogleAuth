@@ -1,0 +1,12 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+.sbtserver
+
+# don't expose google configuration info, need to add file manually
+google.conf

@@ -1,0 +1,6 @@
+Sample using google auth with the Play Framework
+
+Need to manually add google.conf to the conf folder containing the following two values
+to complete the configuration:
+google.clientId="CLIENTID.apps.googleusercontent.com"
+google.signinScope="profile email"
